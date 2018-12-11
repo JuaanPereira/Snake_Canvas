@@ -8,15 +8,18 @@ You gain +10 points after you eat a fruit, every 50 points the speed of the snak
 next level.
 
 Only visible "bugs" I've found are two, one of them is that due to the lack of time I had to make the game and how fast I made it (I spent over 3 days
-because I had to learn from tutorials and such) I forgot to add a rule to avoid the snake moving backwards, so when you move backwards afteryou reach a significant length, code will detect you're 
+because I had to learn from tutorials and such) I forgot to add a rule to avoid the snake moving backwards, so when you move backwards after you reach a significant length, code will detect you're 
 colliding yourself, it's easy to fix, you just have to put such exception in the checkCollision() function.
 
-Second bug is that I haven't managed all the possible exceptions and when you press any key that from your keyboard which is not mapped
+Second bug is that I haven't managed well the possible exceptions and when you press any key from your keyboard which is not mapped
 in the code game will crash, this is as simple as using the keys that are mapped, I don't think this is a huge problem since you 
-SHOULDN'T try another keys that are not the mentioned ones.
+SHOULDN'T try another keys that are not the mentioned ones, anyways fix is pretty simple aswell.
 
 Keys and information are all listed up in the game's interface.
 
+I don't think I'll keep working on this since I have another projects to finish, but if anyone wants to fix the code, clean it up, or
+just wants to take it as example, you're free to do so but I want my accreditation :p.
+
 Timer was created using albert-gonzalez's EasyTimer library (https://github.com/albert-gonzalez/easytimer.js), very nice tool.
 
-Enjoy!
+Enjoy.
