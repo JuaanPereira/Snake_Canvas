@@ -17,7 +17,7 @@ SHOULDN'T try another keys that are not the mentioned ones, anyways fix is prett
 
 Keys and information are all listed up in the game's interface.
 
-I don't think I'll keep working on this since I have another projects to finish, but if anyone wants to fix the code, clean it up, or
+I don't think I'll keep working on this since I have more projects to finish, but if anyone wants to fix the code, clean it up, or
 just wants to take it as example, you're free to do so but I want my accreditation :p.
 
 Timer was created using albert-gonzalez's EasyTimer library (https://github.com/albert-gonzalez/easytimer.js), very nice tool.
